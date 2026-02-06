@@ -1,0 +1,27 @@
+{
+  "title": "Portable Mini Fan",
+  "category": "Personal Care",
+  "brand": "OEM",
+  "model": "MF-01",
+  "material": "ABS",
+  "size": "120 x 60 x 45 mm",
+  "color": "White",
+  "weight": "210 g",
+  "features": [
+    "USB rechargeable",
+    "3 speed settings",
+    "Quiet motor suitable for desk use"
+  ],
+  "package_contents": [
+    "Fan",
+    "USB cable",
+    "User manual"
+  ],
+  "moq": "2 pcs",
+  "price_range": "¥12-18",
+  "images": [
+    "https://example.com/image1.jpg",
+    "https://example.com/image2.jpg"
+  ],
+  "notes": "Confirm CE/UKCA compliance before listing."
+}
